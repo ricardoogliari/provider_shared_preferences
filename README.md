@@ -1,16 +1,14 @@
 # provider_shared_preferences
 
-A new Flutter project.
+Um exemplo de projeto utilizando banco de dados par chave-valor e pacote de gerenciamento de estados Provider. Conteúdo base de aula ministrada na turma de gradiação da Atitus e em cursos de MBA da FIAP e Especialização da UTFPR.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Pacotes utilizados:
 
-A few resources to get you started if this is your first Flutter project:
+#### shared_preferences
+#### provider
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Documentos utilizados como base de conhecimento:
+#### Simple App State Management (texto sobre o Provider): https://docs.flutter.dev/data-and-backend/state-mgmt/simple
+#### Store key-value data on disk: https://docs.flutter.dev/cookbook/persistence/key-value
